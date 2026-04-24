@@ -20,3 +20,4 @@ Bu proje, kullanıcıların farklı formatlardaki (PDF, DOCX, TXT) dokümanları
 - **Vektör Veritabanı:** FAISS (Facebook AI Similarity Search)
 - **Embedding:** HuggingFace (`sentence-transformers`)
 - **LLM:** Groq API (`llama-3.1-8b-instant`)
+
